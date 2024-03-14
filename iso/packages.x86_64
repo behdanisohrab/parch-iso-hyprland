@@ -109,6 +109,7 @@ syslinux
 systemd-resolvconf
 tcpdump
 terminus-font
+boost
 testdisk
 tmux
 tpm2-tss
@@ -175,9 +176,9 @@ btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-ttf-dejavu
 vazirmatn-fonts
 firefox
+mpvpaper
 
 #parchlinuxstuff
 calamares
@@ -187,7 +188,9 @@ paru
 parch-emoji-ios
 parch-branding
 parch-pacman
-parch-hypr
+parch-hypr-kuru
 dracula-gtk-theme
 parch-wallpapers
 papirus-icon-theme
+plymouth
+parch-plymouth
